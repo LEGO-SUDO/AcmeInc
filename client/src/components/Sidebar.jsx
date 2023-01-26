@@ -1,5 +1,4 @@
 import React from 'react'
-//import './sidebar.scss'
 import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined'
 import BarChartRoundedIcon from '@mui/icons-material/BarChartRounded'
 import StoreIcon from '@mui/icons-material/Store'
